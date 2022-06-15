@@ -1,0 +1,22 @@
+*{
+    font-family: roboto,Times New Roman,fantasy;
+}
+
+.sale-price{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.normal-price{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.logo-properties{
+    width: 100px;
+}
+
+
+.nav-logo-prop{
+    width: 90px;
+}
